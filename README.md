@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Development<br>🌱 I’m actively learning AI Technologies<br>💬 Ask me about real-life Project ideas<br>⚡ Fun fact I'm also ship-ready one to work with <br>      backend frameworks
+🔭 I’m currently working on Frontend Development<br>🌱  Now I’m engaged in learning AI Technologies<br>💬 Ask me about real-life Project ideas<br>⚡ Fun fact I'm also ship-ready to work with <br>      backend frameworks
 
 
 # 💻 Tech Stack:
